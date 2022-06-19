@@ -97,7 +97,6 @@
 
 /* ----------- HERO modal form----------- */
 .modal-form-title {
-  display: block;
   font-style: normal;
   font-weight: 700;
   font-size: 20px;
@@ -109,7 +108,7 @@
 }
 
 .form-group {
-  display: block;
+  display: flex;
   position: relative;
   margin-bottom: 10px;
 
